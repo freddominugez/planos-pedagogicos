@@ -1,6 +1,4 @@
-<!-- canonical: /CLAUDE.md -->
-# CLAUDE ponteiro
+<!-- Ponteiro real (import), nao prosa. Canonico: /AGENTS.md -->
+# CLAUDE.md, app planos-pedagogicos
 
-Este arquivo nao tem politica propria. Veja CLAUDE.md e AGENTS.md na raiz operacional do ecossistema Vulcan.
-
-Veja: /CLAUDE.md
+@/Users/carlosdominguez/Documents/vulcanappsadmin.git/CLAUDE.md
